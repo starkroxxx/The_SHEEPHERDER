@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
  
-const char* ssid = "STARK";//Chane here your hostspot id
-const char* password = "warmachine68";//change here your hotspot password
+const char* ssid = "*******";//Change here your hostspot id
+const char* password = "********";//change here your hotspot password
  
 WiFiServer server(80);
  
